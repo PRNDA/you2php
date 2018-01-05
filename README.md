@@ -14,9 +14,9 @@ You2PHP采用GPL开源协议发布，你可以自由的使用和修改代码，�
 # 如何安装与使用
 请查看You2PHP文档[https://you2php.github.io/doc/](https://you2php.github.io/doc/)
 
-请在遵守当地相关法律法规的前提下使用本项目
+**请在遵守当地相关法律法规的前提下使用本项目
 本人拒绝为任何商业或非法目的提供任何技术支持
-本项目仅为科研人员更方便地查询知识而创建, 请勿大范围传播
+本项目仅为科研人员更方便地学习知识而创建, 请勿大范围传播**
 # 程序截图
 
 ![https://you2php.github.io/img/11.png](https://you2php.github.io/img/11.png)
