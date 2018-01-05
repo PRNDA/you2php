@@ -1,6 +1,11 @@
-![https://you2php.github.io/img/pic/jt1.png](https://you2php.github.io/img/pic/jt1.png)
 > You2PHP是一个用PHP开发的Youtube流量代理脚本、通过对接谷歌api获取数据，可用来搭建Youtube视频镜像站、可实现长城之内观看Youtube。
 > 
+![https://you2php.github.io/img/pic/jt1.png](https://you2php.github.io/img/pic/jt1.png)
+![https://you2php.github.io/img/11.png](https://you2php.github.io/img/11.png)
+![https://you2php.github.io/img/22.png](https://you2php.github.io/img/22.png)
+![https://you2php.github.io/img/33.png](https://you2php.github.io/img/33.png)
+![https://you2php.github.io/img/55.png](https://you2php.github.io/img/55.png)
+
 # 特点
 使用You2PHP的成本非常低，只需要一个支持PHP环境的虚拟海外主机，上传代码简单设置即可立即使用。无论您使用的是虚拟主机，还是VPS，上传即可使用，无需数据库！
 
