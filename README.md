@@ -1,3 +1,4 @@
+![https://you2php.github.io/img/pic/jt1.png](https://you2php.github.io/img/pic/jt1.png)
 > You2PHP是一个用PHP开发的Youtube流量代理脚本、通过对接谷歌api获取数据，可用来搭建Youtube视频镜像站、可实现长城之内观看Youtube。
 > 
 # 特点
@@ -6,5 +7,6 @@
 You2PHP对接谷歌官方APi，实现了视频/频道搜索、视频在线播放 、频道/类别内容预览、视频下载等功能、浏览这些内容不需要您的设备上安装任何软件。
 
 You2PHP采用GPL开源协议发布，你可以自由的使用和修改代码，随时随地，访问一个URL即可观看全球视频。
+请访问项目主页[https://you2php.github.io//](https://you2php.github.io/)查看更详细介绍。
 # 如何安装与使用
 请查看You2PHP文档[https://you2php.github.io/doc/](https://you2php.github.io/doc/)
